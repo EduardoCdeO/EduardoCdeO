@@ -1,4 +1,4 @@
-### 📌 Olá! Eu sou o Eduardo 👋
+## 📌 Olá! Eu sou o Eduardo 👋
 <br/>
 
 ## 📌Tecnologias
